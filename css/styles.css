@@ -14,3 +14,7 @@ h1, h3 {
 a {
   color: #CDBE78;
 }
+
+a:hover {
+  color: #F2F2F2
+}
